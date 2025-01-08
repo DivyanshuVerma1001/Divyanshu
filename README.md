@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DivyanshuVerma1001&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -37,10 +37,7 @@
 
 ### 📈 **GitHub Stats**:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyanshuVerma1001&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
