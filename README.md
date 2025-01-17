@@ -12,14 +12,11 @@
 
 
 
-<h3 align="center">A passionate MERN stack developer in the making 🚀</h3>
+<h3 align="center">A passionate MERN stack developer </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DivyanshuVerma1001&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="./herobg.png" align="center" style="width: 100%" alt="Divyanshu Verma" />
+  
 </p>
 
 ---
@@ -29,8 +26,13 @@
 - 💻 Proficient in **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, **React**, **C**, and **C++**.  
 - 🔥 Have a strong command over **Data Structures and Algorithms** (50-day LeetCode streak achieved 🎉).  
 - 🎓 2nd-year **B.Tech** student exploring the exciting world of development.  
+  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DivyanshuVerma1001&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
 
 ---
+
 
 ### 🛠️ **Tech Stack**:
 <p align="center">
