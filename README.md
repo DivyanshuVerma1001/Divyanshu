@@ -76,3 +76,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/l1J9sboN2XGHjB95C/giphy.gif" alt="thank you gif" width="300"/>
 </p>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
