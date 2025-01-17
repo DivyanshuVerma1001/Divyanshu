@@ -1,6 +1,17 @@
 <!-- Profile README.md -->
 
-<h1 align="center">Hi 👋, I'm Divyanshu</h1>
+<a href="https://github.com/DivyanshuVerma1001" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=300&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=Hello%2C+I+am+Divyanshu!;Welcome+to+my+profile!;%20" alt="Typing SVG"/>
+</a>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1af8b5bb-fa00-44c1-b5aa-c75e988437e4" align="center" style="width: 100%"/>
+</div>
+
+
+
+
+
+
 <h3 align="center">A passionate MERN stack developer in the making 🚀</h3>
 
 <p align="center">
